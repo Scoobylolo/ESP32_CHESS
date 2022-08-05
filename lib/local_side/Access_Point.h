@@ -4,7 +4,6 @@
 #include "SPIFFS.h"
 #include "ESPAsyncWebServer.h"
 
-
 class Hotspot{
   private:
     const char* server_name;
